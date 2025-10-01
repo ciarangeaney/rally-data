@@ -1,0 +1,14 @@
+{
+  "sponsors": [
+    {
+      "id": "sponsor1",
+      "name": "McCafferty's Bars", 
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFOdTaT0WaIoo4ztXC2pvxfFpwQonlveJxQ&s"
+    },
+    {
+      "id": "sponsor2",
+      "name": "Race & Rally",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7jCBf7lBx4IZyFBTNoviuhqXEXymidlO5A&s"
+    }
+  ]
+}

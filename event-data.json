@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Donegal International Rally",
+    "subtitle": "Ireland's Premier Rally Event",
+    "heroImage": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=800",
+    "description": [
+      "The Donegal International Rally is Ireland's premier rally event and one of the most challenging and prestigious rallies in Europe. First held in 1972, it has grown to become a three-day spectacular that attracts the best drivers from Ireland, the UK, and beyond.",
+      "Known for its fast, flowing stages through the stunning Donegal countryside, the rally tests both driver skill and mechanical reliability. The event is a round of the Irish Tarmac Rally Championship."
+    ]
+  },
+  "stats": [
+    {
+      "icon": "trophy",
+      "number": "52",
+      "label": "Years Running",
+      "color": "#F59E0B"
+    },
+    {
+      "icon": "calendar",
+      "number": "3",
+      "label": "Days of Action",
+      "color": "#10B981"
+    },
+    {
+      "icon": "users",
+      "number": "150+",
+      "label": "Competitors",
+      "color": "#3B82F6"
+    }
+  ],
+  "winners": [
+    {
+      "year": "2024",
+      "driver": "Matt Edwards",
+      "coDriver": "David Moynihan"
+    },
+    {
+      "year": "2023",
+      "driver": "Callum Devine",
+      "coDriver": "Brian Hoy"
+    },
+    {
+      "year": "2022",
+      "driver": "Callum Devine",
+      "coDriver": "Brian Hoy"
+    },
+    {
+      "year": "2019",
+      "driver": "Sam Moffett",
+      "coDriver": "James Fulton"
+    }
+  ],
+  "organizer": {
+    "name": "Donegal Motor Club",
+    "description": "The Donegal Motor Club, founded in 1969, is the organizing body behind the Donegal International Rally. With over 50 years of motorsport experience, the club has established itself as one of Ireland's premier rally organizing teams."
+  },
+  "links": [
+    {
+      "title": "Donegal International Rally",
+      "url": "https://www.donegalrally.ie",
+      "description": "Official rally website"
+    },
+    {
+      "title": "Donegal Motor Club",
+      "url": "https://www.donegalmotorclub.com",
+      "description": "Organizing club website"
+    },
+    {
+      "title": "Motorsport Ireland",
+      "url": "https://www.motorsportireland.com",
+      "description": "National governing body"
+    }
+  ],
+  "resultsUrl": "https://results.shannonsportsit.ie/results.php?rally=DL25",
+  "currentYear": 2025,
+  "eventDates": {
+    "year": 2025,
+    "startDate": "2025-06-20",
+    "endDate": "2025-06-22",
+    "displayDates": "June 20-22, 2025"
+  }
+}

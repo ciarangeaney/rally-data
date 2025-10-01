@@ -1,4 +1,10 @@
-{
+{  
+  "eventDates": {
+    "thursday": "Jun 19",
+    "friday": "Jun 20", 
+    "saturday": "Jun 21",
+    "sunday": "Jun 22"
+  },
   "thursday": [
     {
       "title": "Afternoon",

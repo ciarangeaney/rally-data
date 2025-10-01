@@ -1,11 +1,11 @@
 {
   "eventInfo": {
     "name": "Donegal International Rally",
-    "subtitle": "Ireland's Premier Rally Event",
-    "heroImage": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=800",
+    "subtitle": "Donegal has it all!",
+    "heroImage": "https://donegalrally.ie/wp-content/uploads/2025/07/spectators-dream.jpg?w=800",
     "description": [
       "The Donegal International Rally is Ireland's premier rally event and one of the most challenging and prestigious rallies in Europe. First held in 1972, it has grown to become a three-day spectacular that attracts the best drivers from Ireland, the UK, and beyond.",
-      "Known for its fast, flowing stages through the stunning Donegal countryside, the rally tests both driver skill and mechanical reliability. The event is a round of the Irish Tarmac Rally Championship."
+      "Known for its fast, flowing stages through the stunning Donegal countryside, the rally tests both driver skill and mechanical reliability. The rally attracts in excess of 70,000 spectators with close to 400,000 viewers on TV and online."
     ]
   },
   "stats": [
@@ -31,8 +31,8 @@
   "winners": [
     {
       "year": "2024",
-      "driver": "Matt Edwards",
-      "coDriver": "David Moynihan"
+      "driver": "Callum Devine",
+      "coDriver": "Brian Hoy"
     },
     {
       "year": "2023",

@@ -72,6 +72,7 @@
     }
   ],
   "resultsUrl": "https://results.shannonsportsit.ie/results.php?rally=DL25",
+  "mapUrl": "https://raw.githubusercontent.com/ciarangeaney/rally-data/main/map-data.json",
   "currentYear": 2025,
   "eventDates": {
     "year": 2025,

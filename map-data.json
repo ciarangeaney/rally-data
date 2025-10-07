@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friday Service - Mart",
+        "description": "Friday Service - Carndonagh Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.2583453, 55.252548, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saturday/Sunday Service",
+        "description": "Saturday/Sunday Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.7092073, 54.9608952, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SS1 Malin Head",
+        "color": "#001eff",
+        "strokeWidth": 4,
+        "type": "stage",
+        "stageNumber": 1,
+        "startTime": "11:07",
+        "distance": "14.30 km",
+        "description": "Stage 1 description"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-7.31171, 55.3578, 0],
+          [-7.31148, 55.3586, 0],
+          [-7.31143, 55.3589, 0]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SSS1 Malin Head",
+        "description": "SSS1/4 Malin Head",
+        "type": "start",
+        "stageNumber": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.31171, 55.3578, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SSF1 Malin Head",
+        "description": "SSF1/4 Malin Head",
+        "type": "finish",
+        "stageNumber": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.34482, 55.33457, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scenic Hairpin",
+        "description": "Popular spectator area with scenic views of the stage and famous hairpin. Limited parking available.",
+        "type": "spectator",
+        "facilities": ["limited_parking", "viewing_area"],
+        "capacity": "200 people",
+        "image": "https://www.irelandbeforeyoudie.com/wp-content/uploads/2022/06/malin-head-08-web-size.jpg?w=400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.339455, 55.346389, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Facilities",
+        "type": "toilet",
+        "description": "Public toilet facilities available.",
+        "facilities": ["toilets", "accessible"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.609711, 55.188406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Food",
+        "type": "food",
+        "description": "Fast food and refreshments available.",
+        "facilities": ["food", "drinks"],
+        "hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.609549, 55.188301]
+      }
+    }
+  ]
+}
